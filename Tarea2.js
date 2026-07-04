@@ -19,4 +19,4 @@ function primos(min,max){
         }
     }
 }
-primos(1,100);
+primos(6,30);

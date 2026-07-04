@@ -7,4 +7,4 @@ function piramide(num){
         console.log(esp);
     }
 }
-piramide(10);
+piramide(5);
